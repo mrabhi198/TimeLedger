@@ -29,3 +29,11 @@ It helps users track how much time they spend on tasks like **DSA, Study, Work, 
 
 ## 🧱 Architecture
 
+UI (Compose)
+↓
+ViewModel
+↓
+Repository
+↓
+Room Database
+
